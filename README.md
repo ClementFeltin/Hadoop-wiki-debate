@@ -1,2 +1,2 @@
 # Hadoop-wiki-debate
-Hadoop project to study most debated / conflicting themes on Wikipedia.
+Hadoop project to study most debated / controversial themes on Wikipedia.
